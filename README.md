@@ -8,23 +8,21 @@
 
 <p>
 	<em>
-        LIMS Consultant at <a href="https://www.labware.com/">LabWare</a></br>			Mechanical Engineer at <a href="https://unifei.edu.br/">UNIFEI</a></br>
-		Pseudo-developer at <a href="https://github.com/srcamarda/">GitHub</a>
+        LIMS Consultant at <a href="https://www.labware.com/">LabWare</a></br>			
+	Mechanical Engineer at <a href="https://unifei.edu.br/">UNIFEI</a></br>
+	Pseudo-developer at <a href="https://github.com/srcamarda/">GitHub</a>
 	</em>
 </p>
+
 ##### Tenho (alguma) experiência com:
 
 - C, C++
-
 - Basic, Python
-
 - Java (mobile)
-
 - SQLServer, PostgresSQL, Access
 
-  
+##### Você pode (?) me encontrar em: 
 
 [![Linkedin: thiagocamarda](https://img.shields.io/badge/-thiagocamarda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagocamarda/)](https://www.linkedin.com/in/thiagocamarda/)
-
+[![Instagram: thiagocamarda](https://img.shields.io/badge/-thiagocamarda-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagocamarda/)](https://www.instagram.com/thiagocamarda/)
 [![GitHub SrCamarda](https://img.shields.io/github/followers/srcamarda?label=follow&style=social)](https://github.com/srcamarda/)
-
