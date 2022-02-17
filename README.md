@@ -20,6 +20,7 @@
 - Basic, Python
 - Java (mobile)
 - SQLServer, PostgresSQL, Access
+- Git, Azure, SVN
 
 ##### Você pode (?) me encontrar em: 
 
