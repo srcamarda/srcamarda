@@ -12,13 +12,17 @@
 		Pseudo-developer at <a href="https://github.com/srcamarda/">GitHub</a>
 	</em>
 </p>
-
 ##### Tenho (alguma) experiência com:
 
 - C, C++
+
 - Basic, Python
+
 - Java (mobile)
+
 - SQLServer, PostgresSQL, Access
+
+  
 
 [![Linkedin: thiagocamarda](https://img.shields.io/badge/-thiagocamarda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagocamarda/)](https://www.linkedin.com/in/thiagocamarda/)
 
