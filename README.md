@@ -4,13 +4,13 @@
 
 ### Opa! Eu sou o SrCamarda 👋 
 
-##### Meu nome é Thiago e tenho 25 anos. Meu objetivo é ter muitos projetos legais por aqui.
+##### Meu nome é Thiago e tenho 25 anos. Meu objetivo é desenvolver projetos interessantes por aqui.
 
 <p>
 	<em>
         LIMS Consultant at <a href="https://www.labware.com/">LabWare</a></br>			
 	Mechanical Engineer at <a href="https://unifei.edu.br/">UNIFEI</a></br>
-	Pseudo-developer at <a href="https://github.com/srcamarda/">GitHub</a>
+	Developer at <a href="https://github.com/srcamarda/">GitHub</a>
 	</em>
 </p>
 
@@ -18,7 +18,7 @@
 
 - C, C++
 - Basic, Python
-- Java (mobile)
+- Java, JavaScript, NodeJS
 - SQLServer, PostgresSQL, Access
 - Git, Azure, SVN
 
