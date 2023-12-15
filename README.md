@@ -4,7 +4,7 @@
 
 ### Opa! Eu sou o SrCamarda 👋 
 
-##### Meu nome é Thiago e tenho 26 anos. Meu objetivo é desenvolver coisas aleatórias e interessantes (ou não) por aqui.
+##### Meu nome é Thiago e tenho 27 anos. Meu objetivo é desenvolver coisas aleatórias e interessantes (ou não) por aqui.
 
 <p>
 	<em>
@@ -19,8 +19,7 @@
 - C, C++
 - Basic, Python
 - Java, JavaScript, NodeJS
-- SQLServer, Oracle, PostgresSQL, Access
-- Git, Azure, SVN
+- SQLServer, Oracle, PostgresSQL
 
 ##### Você pode (?) me encontrar em: 
 
