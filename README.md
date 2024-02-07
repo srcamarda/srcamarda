@@ -4,7 +4,8 @@
 
 ### Opa! Eu sou o SrCamarda 👋 
 
-##### Meu nome é Thiago e tenho 27 anos. Meu objetivo é desenvolver coisas aleatórias e interessantes (ou não) por aqui.
+##### Meu nome é Thiago e tenho como objetivo aprimorar minhas habilidades como desenvolvedor.
+##### Mais sobre mim:
 
 <p>
 	<em>
@@ -21,7 +22,7 @@
 - Java, JavaScript, NodeJS
 - SQLServer, Oracle, PostgresSQL
 
-##### Você pode (?) me encontrar em: 
+##### Você pode me encontrar em: 
 
 [![Linkedin: thiagocamarda](https://img.shields.io/badge/-thiagocamarda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagocamarda/)](https://www.linkedin.com/in/thiagocamarda/)
 [![Instagram: thiagocamarda](https://img.shields.io/badge/-thiagocamarda-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagocamarda/)](https://www.instagram.com/thiagocamarda/)
