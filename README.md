@@ -18,9 +18,9 @@
 ##### Tenho experiência com:
 
 - C, C++
-- Basic, Python
-- Java, JavaScript, NodeJS
-- SQLServer, Oracle, PostgresSQL
+- Java, Basic, Python
+- JavaScript, NodeJS
+- SQLServer, Oracle, PostgresSQL, H2
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srcamarda&layout=compact&locale=pt-br&include_all_commits=true&title_color=9d5fff&bg_color=1a1a20&border_color=9d5fff&text_color=ffffff&icon_color=9d5fff&show_icons=true)](https://github.com/srcamarda/srcamarda)
 
